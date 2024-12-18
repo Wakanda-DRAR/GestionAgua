@@ -6,7 +6,7 @@
 
 https://github.com/Wakanda-DRAR/GestionAgua.git
 
-# Video de instalacón y muestra de un microservicio
+# Video de instalación y muestra de un microservicio
 
 https://www.youtube.com/watch?v=t7rg-MPO-gQ
 
